@@ -36,5 +36,4 @@ Telegram Chatbot
 
 
 Validating our model with the last 6 weeks of available data showed:
-- the difference between real values and predicted values are - on average - around $800 per day per store, what stands for an 11% error;
-- almost 50% of predictions are within 0-10% error range.
+- the difference between real values and predicted values are - on average - around $678 per day per store, what stands for an 10% error.
